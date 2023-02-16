@@ -11,4 +11,4 @@ Opening with an IDE
 	Open NordcloudTechTask.sln with Visual Studio or Visual Code and select NordcloudTechTask.Console as your startup project and run.
 
 IN COMMAND LINE
-	Download the ready-made .exe from version control and run that. If you want to build binaries yourself you have to do so by opening the project with an IDE.
+	Download the ready-made .exe from releases and run that. If you want to build binaries yourself you have to do so by opening the project with an IDE.
