@@ -28,7 +28,7 @@ namespace NordcloudTechTask.Domain
         /// </summary>
         /// <param name="networkStations">List of network stations to compare the device's location to.</param>
         /// <param name="device"></param>
-        /// <returns>MostSuitableNetworkStationResult or null if none found.</returns>
+        /// <returns>MostSuitableNetworkStationResult, if no suitable station is found station will be null.</returns>
         public static MostSuitableNetworkStationResult GetMostSuitableNetworkStation(IEnumerable<NetworkStation> networkStations, DeviceLocation device)
         {
             NetworkStation? MostSuitableNetworkStationLocation = null;
