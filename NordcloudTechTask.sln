@@ -5,14 +5,9 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordcloudTechTask.Console", "NordcloudTechTask\NordcloudTechTask.Console.csproj", "{B86A1E84-BCCC-4EC1-85B2-D5E4CF74FF85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordcloudTechTask.Tests", "NordcloudTechTask.Tests\NordcloudTechTask.Tests.csproj", "{CF230097-2B23-4098-BDC0-2F10C79A77A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordcloudTechTask.Tests", "NordcloudTechTask.Tests\NordcloudTechTask.Tests.csproj", "{CF230097-2B23-4098-BDC0-2F10C79A77A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordcloudTechTask.Domain", "NordcloudTechTask.Domain\NordcloudTechTask.Domain.csproj", "{F871FB60-6044-4A8B-9D3E-888BAEBF1086}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{445261B6-CD00-471C-8409-B74922281A94}"
-	ProjectSection(SolutionItems) = preProject
-		readme.txt = readme.txt
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordcloudTechTask.Domain", "NordcloudTechTask.Domain\NordcloudTechTask.Domain.csproj", "{F871FB60-6044-4A8B-9D3E-888BAEBF1086}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
