@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordcloudTechTask.Console", "NordcloudTechTask\NordcloudTechTask.Console.csproj", "{B86A1E84-BCCC-4EC1-85B2-D5E4CF74FF85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordcloudTechTask.Console", "NordcloudTechTask.Console\NordcloudTechTask.Console.csproj", "{B86A1E84-BCCC-4EC1-85B2-D5E4CF74FF85}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordcloudTechTask.Tests", "NordcloudTechTask.Tests\NordcloudTechTask.Tests.csproj", "{CF230097-2B23-4098-BDC0-2F10C79A77A1}"
 EndProject
